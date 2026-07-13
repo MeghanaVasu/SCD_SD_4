@@ -1,4 +1,5 @@
  Created by - Meghana V
+ 
 🕸️ SkillCraft Technology — Web Scraper Task
 
  A highly efficient, automated Python application designed to extract product parameters—including names, structured prices, and star ratings—from an online e-commerce infrastructure. The extracted data is processed dynamically and mapped into a structured CSV dataset.
